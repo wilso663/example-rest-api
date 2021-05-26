@@ -1,4 +1,4 @@
-# Angela Yu Web Development Course - Simon Game Javascript Challenge solution
+# Angela Yu Web Development Course - REST API Challenge solution
 
 This is a solution to the [REST API exercise chapter by Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp). 
 
